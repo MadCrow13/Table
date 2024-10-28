@@ -1,0 +1,32 @@
+table {
+    background: rgb(246, 189, 32);
+    font-family: roboto;
+
+}
+
+th {
+    padding: 20px;
+    text-align: center;
+    background: rgb(246, 189, 32);
+    text-transform: uppercase;
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+td {
+    padding: 20px;
+    text-align: center;
+    background: rgb(60, 7, 145);
+    width: 200px;
+    text-align: left;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+}
+
+.dark {
+    background: rgb(224, 171, 38);
+}
+
